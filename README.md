@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Kaio, I'm a software engineering student, <br>I'm always looking to improve
+Hi, my name is Kaio, I'm a software engineering student, <br>I'm always looking to improve.
 
 
 ## 🌐 Socials:
